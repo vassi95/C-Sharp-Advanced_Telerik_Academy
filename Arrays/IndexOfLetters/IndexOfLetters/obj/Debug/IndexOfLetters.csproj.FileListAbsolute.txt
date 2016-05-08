@@ -1,0 +1,1 @@
+D:\C#2\Arrays\IndexOfLetters\IndexOfLetters\bin\Debug\IndexOfLetters.exe.config

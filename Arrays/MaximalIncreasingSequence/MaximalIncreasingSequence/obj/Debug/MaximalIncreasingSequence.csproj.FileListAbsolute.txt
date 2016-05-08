@@ -1,0 +1,5 @@
+D:\C#2\Arrays\MaximalIncreasingSequence\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe.config
+D:\C#2\Arrays\MaximalIncreasingSequence\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.exe
+D:\C#2\Arrays\MaximalIncreasingSequence\MaximalIncreasingSequence\bin\Debug\MaximalIncreasingSequence.pdb
+D:\C#2\Arrays\MaximalIncreasingSequence\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.exe
+D:\C#2\Arrays\MaximalIncreasingSequence\MaximalIncreasingSequence\obj\Debug\MaximalIncreasingSequence.pdb

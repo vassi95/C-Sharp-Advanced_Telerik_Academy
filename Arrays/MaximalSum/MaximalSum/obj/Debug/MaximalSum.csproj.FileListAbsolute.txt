@@ -1,0 +1,1 @@
+D:\C#2\Arrays\MaximalSum\MaximalSum\bin\Debug\MaximalSum.exe.config

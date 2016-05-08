@@ -1,0 +1,1 @@
+D:\C#2\Arrays\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
