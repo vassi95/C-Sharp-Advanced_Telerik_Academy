@@ -1,0 +1,1 @@
+D:\C#2\NumeralSystems\HexadecimalToBinary\HexadecimalToBinary\bin\Debug\HexadecimalToBinary.exe.config
