@@ -1,1 +1,0 @@
-D:\C#2\Arrays\QuickSort\QuickSort\bin\Debug\QuickSort.exe.config

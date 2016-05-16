@@ -1,1 +1,0 @@
-D:\C#2\Arrays\MaximalKSum\MaximalKSum\bin\Debug\MaximalKSum.exe.config

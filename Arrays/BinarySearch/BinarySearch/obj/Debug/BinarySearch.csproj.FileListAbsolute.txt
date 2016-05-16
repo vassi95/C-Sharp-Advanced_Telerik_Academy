@@ -1,5 +1,0 @@
-D:\C#2\Arrays\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
-D:\C#2\Arrays\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
-D:\C#2\Arrays\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
-D:\C#2\Arrays\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
-D:\C#2\Arrays\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

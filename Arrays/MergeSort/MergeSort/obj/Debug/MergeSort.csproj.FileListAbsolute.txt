@@ -1,1 +1,0 @@
-D:\C#2\Arrays\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config

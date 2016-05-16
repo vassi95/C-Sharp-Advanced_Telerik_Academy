@@ -1,1 +1,0 @@
-D:\C#2\Arrays\RemoveElementsFromArray\RemoveElementsFromArray\bin\Debug\RemoveElementsFromArray.exe.config
