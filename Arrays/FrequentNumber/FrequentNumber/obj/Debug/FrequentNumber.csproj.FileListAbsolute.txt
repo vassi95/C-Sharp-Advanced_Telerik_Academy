@@ -1,0 +1,6 @@
+D:\C#2\Arrays\FrequentNumber\FrequentNumber\bin\Debug\FrequentNumber.exe.config
+D:\C#2\Arrays\FrequentNumber\FrequentNumber\bin\Debug\FrequentNumber.exe
+D:\C#2\Arrays\FrequentNumber\FrequentNumber\bin\Debug\FrequentNumber.pdb
+D:\C#2\Arrays\FrequentNumber\FrequentNumber\obj\Debug\FrequentNumber.csprojResolveAssemblyReference.cache
+D:\C#2\Arrays\FrequentNumber\FrequentNumber\obj\Debug\FrequentNumber.exe
+D:\C#2\Arrays\FrequentNumber\FrequentNumber\obj\Debug\FrequentNumber.pdb

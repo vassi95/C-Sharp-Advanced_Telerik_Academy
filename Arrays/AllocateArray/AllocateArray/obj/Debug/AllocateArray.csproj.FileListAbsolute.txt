@@ -1,0 +1,6 @@
+D:\C#2\Arrays\AllocateArray\AllocateArray\bin\Debug\AllocateArray.exe.config
+D:\C#2\Arrays\AllocateArray\AllocateArray\bin\Debug\AllocateArray.exe
+D:\C#2\Arrays\AllocateArray\AllocateArray\bin\Debug\AllocateArray.pdb
+D:\C#2\Arrays\AllocateArray\AllocateArray\obj\Debug\AllocateArray.csprojResolveAssemblyReference.cache
+D:\C#2\Arrays\AllocateArray\AllocateArray\obj\Debug\AllocateArray.exe
+D:\C#2\Arrays\AllocateArray\AllocateArray\obj\Debug\AllocateArray.pdb
