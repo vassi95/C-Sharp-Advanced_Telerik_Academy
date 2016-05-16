@@ -1,0 +1,6 @@
+D:\C#2\Methods\NumberAsArray\NumberAsArray\bin\Debug\NumberAsArray.exe.config
+D:\C#2\Methods\NumberAsArray\NumberAsArray\bin\Debug\NumberAsArray.exe
+D:\C#2\Methods\NumberAsArray\NumberAsArray\bin\Debug\NumberAsArray.pdb
+D:\C#2\Methods\NumberAsArray\NumberAsArray\obj\Debug\NumberAsArray.csprojResolveAssemblyReference.cache
+D:\C#2\Methods\NumberAsArray\NumberAsArray\obj\Debug\NumberAsArray.exe
+D:\C#2\Methods\NumberAsArray\NumberAsArray\obj\Debug\NumberAsArray.pdb

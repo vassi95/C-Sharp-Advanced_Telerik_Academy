@@ -1,0 +1,5 @@
+D:\C#2\Methods\ReverseNumbers\ReverseNumbers\bin\Debug\ReverseNumbers.exe.config
+D:\C#2\Methods\ReverseNumbers\ReverseNumbers\bin\Debug\ReverseNumbers.exe
+D:\C#2\Methods\ReverseNumbers\ReverseNumbers\bin\Debug\ReverseNumbers.pdb
+D:\C#2\Methods\ReverseNumbers\ReverseNumbers\obj\Debug\ReverseNumbers.exe
+D:\C#2\Methods\ReverseNumbers\ReverseNumbers\obj\Debug\ReverseNumbers.pdb

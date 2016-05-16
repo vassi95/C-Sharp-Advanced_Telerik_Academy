@@ -1,0 +1,5 @@
+D:\C#2\Methods\EnglishDigit\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+D:\C#2\Methods\EnglishDigit\EnglishDigit\bin\Debug\EnglishDigit.exe
+D:\C#2\Methods\EnglishDigit\EnglishDigit\bin\Debug\EnglishDigit.pdb
+D:\C#2\Methods\EnglishDigit\EnglishDigit\obj\Debug\EnglishDigit.exe
+D:\C#2\Methods\EnglishDigit\EnglishDigit\obj\Debug\EnglishDigit.pdb

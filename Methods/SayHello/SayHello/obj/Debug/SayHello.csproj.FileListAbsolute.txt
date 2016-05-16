@@ -1,0 +1,6 @@
+D:\C#2\Methods\SayHello\SayHello\bin\Debug\SayHello.exe.config
+D:\C#2\Methods\SayHello\SayHello\bin\Debug\SayHello.exe
+D:\C#2\Methods\SayHello\SayHello\bin\Debug\SayHello.pdb
+D:\C#2\Methods\SayHello\SayHello\obj\Debug\SayHello.csprojResolveAssemblyReference.cache
+D:\C#2\Methods\SayHello\SayHello\obj\Debug\SayHello.exe
+D:\C#2\Methods\SayHello\SayHello\obj\Debug\SayHello.pdb
