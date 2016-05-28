@@ -1,0 +1,1 @@
+D:\C#2\Strings\UnicodeCharacters\UnicodeCharacters\bin\Debug\UnicodeCharacters.exe.config

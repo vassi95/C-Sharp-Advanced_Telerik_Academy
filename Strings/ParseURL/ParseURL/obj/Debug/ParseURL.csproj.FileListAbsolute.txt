@@ -1,0 +1,1 @@
+D:\C#2\Strings\ParseURL\ParseURL\bin\Debug\ParseURL.exe.config

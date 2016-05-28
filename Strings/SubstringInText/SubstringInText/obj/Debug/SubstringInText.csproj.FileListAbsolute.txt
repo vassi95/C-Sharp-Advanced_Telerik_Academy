@@ -1,0 +1,1 @@
+D:\C#2\Strings\SubstringInText\SubstringInText\bin\Debug\SubstringInText.exe.config
